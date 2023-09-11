@@ -11,9 +11,6 @@ The smallest example of a armstrong number other than the trivial 1-digit number
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-import java.net.*;
-import java.awt.*;
-import java.applet.*;
 
 public class armstrong_numberORnot {
     public static void main(String[] args) {
