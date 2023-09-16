@@ -3,4 +3,4 @@
   <h1>🙌 Logical ⛅ ArmStrongorNot - A particular number is Armstrong or not 
  </h1>
 <h1>OUTPUT :- </h1>
-<img src="">
+<img src="https://github.com/shubham-misal/ArmstrongNumberorNot/blob/main/nnarmstrongnumberjava.png">
